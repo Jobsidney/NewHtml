@@ -3,7 +3,7 @@
     max-width: 100%;
     margin: 0 auto;
     flood-opacity: 0%;
-    
+    color: red;
 }
 .text-block{
     position: absolute;
