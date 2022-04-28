@@ -1,0 +1,18 @@
+.container{
+    position: relative;
+    max-width: 100%;
+    margin: 0 auto;
+    flood-opacity: 0%;
+    
+}
+.text-block{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    
+    background-color: transparent;
+    color: rgb(2, 0, 0);
+    padding: 2px;
+    background-color: rgb(41, 40, 40,0.5);
+   width: 99.6%;
+}
